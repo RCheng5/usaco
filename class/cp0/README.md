@@ -2,19 +2,12 @@
 ## Recursion
 ### Hanoi Towers
 
-```c++
-int main(){
-  cout << "Hello World" << endl;
-}
-```
-```math
-x = r\cos\theta, y=r\sin\theta
-```
+Recursion algorithm:
 
-```java
-public static int main(String[] args){
-  System.out.println("Hello, There");
-  return 0;
-}
-```
+1.
+2.
+3.
+
+[Program](hanoitower.cpp)
+
 # Data Structures
