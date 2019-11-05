@@ -12,4 +12,8 @@ Recursion algorithm:
 
 [Program](hanoitower.cpp)
 
+### Wormholes
+
+Algorithm:
+
 # Data Structures
